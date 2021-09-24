@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tiffany, a developer relations at Microsoft 💻. I love sharing and meeting new people and that's how discovered the world of communities.
+I'm Tiffany, a developer relations at Microsoft 💻. I love sharing/meeting new people and that's how I discovered the world of communities.
 I also love cloud technologies ☁️, Machine learning 🤖 and Python 🐍
 
 <!--
