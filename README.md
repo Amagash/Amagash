@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm Tiffany, a developer relations at Microsoft 💻. I love sharing/meeting new people and that's how I discovered the world of communities.
-I also love cloud technologies ☁️, Machine learning 🤖 and Python 🐍
+I'm Tiffany, a developer relations at Microsoft 💻. I help developer communities to grow and I love to engage with them.
+My main focus are cloud technologies ☁️, Machine learning 🤖 and Python 🐍 but I also love astronomy 🚀, genetic engineering 🧬, food🍲, sports 🥋, animals 🐕, travel 🛫
 
 <!--
 **Amagash/Amagash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
