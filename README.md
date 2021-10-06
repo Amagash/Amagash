@@ -1,6 +1,9 @@
 ### Hi there 👋
 I'm Tiffany, a developer relations at Microsoft 💻. I help developer communities to grow and I love to engage with them.
-My main focus are cloud technologies ☁️, Machine learning 🤖 and Python 🐍 but I also love astronomy 🚀, genetic engineering 🧬, food🍲, sports 🥋, animals 🐕, travel 🛫
+My main focus are cloud technologies ☁️, Machine learning 🤖 and Python 🐍 but I also love astronomy 🚀, genetic engineering 🧬, sports 🥋, animals 🐕, travels 🛫 and sharing a good meal with friends 🍲
+
+### My contributions
+I created the chapter [Data Science in the cloud](https://github.com/microsoft/Data-Science-For-Beginners/tree/main/5-Data-Science-In-Cloud) in the [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) curriculum.
 
 <!--
 **Amagash/Amagash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
