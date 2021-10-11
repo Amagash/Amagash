@@ -2,10 +2,10 @@
 I'm Tiffany, a developer relations at Microsoft 💻. I help developer communities to grow and I love to engage with them.
 My main focus are cloud technologies ☁️, Machine learning 🤖 and Python 🐍 but I also love astronomy 🚀, genetic engineering 🧬, sports 🥋, animals 🐕, travels 🛫 and sharing a good meal with friends 🍲
 
-### My contributions
+### Contributions
 I contributed to the chapter [Data Science in the cloud](https://github.com/microsoft/Data-Science-For-Beginners/tree/main/5-Data-Science-In-Cloud) in the [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) curriculum.
 
-### My talks
+### Talks
 - [Les tribulations d'une jeune reconvertie en informatique](https://slides.com/tiffanysouterre/les-tribulations-d-une-jeune-reconvertie-en-informatique)
 - [Y a-t-il un copilot dans mon IDE?](https://slides.com/tiffanysouterre/y-a)
 - [Entraîner, déployer et consommer mon modèle de Machine Learning en quelques clics](https://slides.com/tiffanysouterre/deck-b01de2)
