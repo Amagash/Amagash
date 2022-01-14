@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tiffany, a developer relations at Microsoft 💻. I help developer communities grow. I love engaging with developers about technologies, innovations and help them use our tools. My main focus are Artificial Intelligence🤖, Cloud technologies ☁️ and Python 🐍 but I also love astronomy 🚀, genetic engineering 🧬, sports 🥋, animals 🐕, travels 🛫 and sharing a good meal with friends 🍲
+I'm Tiffany, a DevRel (Developer Relations) at Microsoft 💻. I help developer communities grow. I love engaging with developers about technologies, innovations and help them use our tools. My main focus are Artificial Intelligence🤖, Cloud technologies ☁️ and Python 🐍 but I also love astronomy 🚀, genetic engineering 🧬, sports 🥋, animals 🐕, travels 🛫 and sharing a good meal with friends 🍲
 
 ### Contributions
 - The [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) curriculum is a Microsoft initiative to democratize Data Science and make it accessible to everyone. I contributed to the chapter [Data Science in the cloud](https://github.com/microsoft/Data-Science-For-Beginners/tree/main/5-Data-Science-In-Cloud).
