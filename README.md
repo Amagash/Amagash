@@ -3,8 +3,7 @@ I'm Tiffany, a DevRel (Developer Relations) at Microsoft 💻. I help developer 
 
 ### Contributions
 - The [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) curriculum is a Microsoft initiative to democratize Data Science and make it accessible to everyone. I contributed to the chapter [Data Science in the cloud](https://github.com/microsoft/Data-Science-For-Beginners/tree/main/5-Data-Science-In-Cloud).
-- The [DevConGalaxy](https://workshops.devcongalaxy.io/) website is a library of workshops created by a community of developpers to help people learn new skills. I contributed to the Data Science in the cloud workshop.
-
+- The [DevConGalaxy](https://workshops.devcongalaxy.io/) website is a library of workshops created by a community of developpers to help people learn new skills.
 ### Videos
 #### Interviews
 - [Live Underscode: AI in Minecraft](https://www.youtube.com/watch?v=16cryV3zLKk)
