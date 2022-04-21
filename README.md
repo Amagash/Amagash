@@ -2,6 +2,7 @@
 I'm Tiffany, a DevRel (Developer Relations) at Microsoft 💻. I help developer communities grow. I love engaging with developers about technologies, innovations and help them use our tools. My main focus are Artificial Intelligence🤖, Cloud technologies ☁️ and Python 🐍 but I also love astronomy 🚀, genetic engineering 🧬, sports 🥋, animals 🐕, travels 🛫, gaming 🎮 and sharing a good meal with friends 🍲
 
 ### Contributions
+- The [Minecraft intelligent bot](https://github.com/manekinekko/minecraft-openai).
 - The [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) curriculum is a Microsoft initiative to democratize Data Science and make it accessible to everyone. I contributed to the chapter [Data Science in the cloud](https://github.com/microsoft/Data-Science-For-Beginners/tree/main/5-Data-Science-In-Cloud).
 - The [DevConGalaxy](https://workshops.devcongalaxy.io/) website is a library of workshops created by a community of developpers to help people learn new skills.
 - The Microsoft Tech Groups (MTG) [site template](https://github.com/mtg-x/event-template) is a template that allows community organizers to quickly create a website for their events and conferences. Feel free to contribute!
