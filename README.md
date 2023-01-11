@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tiffany, Senior Developer Advocate Specialist in AI/ML at AWS 💻. I previously worked as a Data/ML engineer and Developer Relations at Microsoft. I love engaging with developers about technologies, innovations and help them use our tools. My main focus are Artificial Intelligence🤖, Cloud technologies ☁️ and Python 🐍 but I also love astronomy 🚀, genetic engineering 🧬, sports 🥋, animals 🐕, travels 🛫, gaming 🎮 and sharing a good meal with friends 🍲
+I'm Tiffany, Senior Developer Advocate Specialist in AI/ML at AWS 💻. I previously worked as a Data/ML engineer and Developer Relations at Microsoft. I'm a recurring speaker in the [Underscore show](https://www.youtube.com/@Underscore_). I love engaging with developers about technologies, innovations and help them use our tools. My main focus are Artificial Intelligence 🤖, Cloud technologies ☁️ and Python 🐍 but I also love astronomy 🚀, genetic engineering 🧬, sports 🥋, animals 🐕, travels 🛫, gaming 🎮 and sharing a good meal with friends 🍲
 
 ### Contributions
 - The [Minecraft intelligent bot](https://github.com/manekinekko/minecraft-openai) is a bot in Minecraft that is controlled by Codex, an AI created by OpenAI.
@@ -20,6 +20,7 @@ I'm Tiffany, Senior Developer Advocate Specialist in AI/ML at AWS 💻. I previo
 - [Recall ou precision : Quel modèle choisir ?](https://www.youtube.com/watch?v=OiakaQNXrQ0)
 
 #### Conferences
+- [Comment programmer des portes logiques dans l'ADN](https://www.youtube.com/watch?v=j0dCH55-6Ck)
 - [Les tribulations d'une jeune reconvertie en informatique](https://www.youtube.com/watch?v=CQ7EPfVxF6Q)
 - [Y a-t-il un copilot dans mon IDE?](https://www.youtube.com/watch?v=-TadywDKEGk&list=PL5Kprdw8GhxdJhmM3f9NwcxtPJNae2K2Q&index=9)
 - [Entraîner, déployer et consommer mon modèle de Machine Learning en quelques clics](https://www.youtube.com/watch?v=TSEv5XN2keE)
@@ -29,6 +30,7 @@ I'm Tiffany, Senior Developer Advocate Specialist in AI/ML at AWS 💻. I previo
 - [VS Code: Mode Collaboratif activé](https://mixitconf.org/2019/vs-code-mode-collaboratif-active-)
 
 ### Slides
+- [Comment programmer des portes logiques dans l'ADN](https://docs.google.com/presentation/d/1DQ2V5vlCk9ye4ysvDX8gPZXDqBfWi8LOBUzvafAh4XY/edit?usp=sharing)
 - [Les tribulations d'une jeune reconvertie en informatique](https://slides.com/tiffanysouterre/les-tribulations-d-une-jeune-reconvertie-en-informatique)
 - [Y a-t-il un copilot dans mon IDE?](https://slides.com/tiffanysouterre/y-a)
 - [Entraîner, déployer et consommer mon modèle de Machine Learning en quelques clics](https://slides.com/tiffanysouterre/deck-b01de2)
