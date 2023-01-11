@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tiffany, Senior Developer Advocate Specialist in AI/ML at AWS 💻. I previously worked as a Data/ML engineer and Developer Relations at Microsoft. I'm a recurring speaker in the [Underscore show](https://www.youtube.com/@Underscore_). I love engaging with developers about technologies, innovations and help them use our tools. My main focus are Artificial Intelligence 🤖, Cloud technologies ☁️ and Python 🐍 but I also love astronomy 🚀, genetic engineering 🧬, sports 🥋, animals 🐕, travels 🛫, gaming 🎮 and sharing a good meal with friends 🍲
+I'm Tiffany, Senior Developer Advocate Specialist in AI/ML at AWS 💻. I previously worked as a Data/ML engineer and Developer Relations at Microsoft. I'm a recurring speaker in the [Underscore talk-show](https://www.youtube.com/@Underscore_). I love engaging with developers about technologies, innovations and help them use our tools. My main focus are Artificial Intelligence 🤖, Cloud technologies ☁️ and Python 🐍 but I also love astronomy 🚀, genetic engineering 🧬, sports 🥋, animals 🐕, travels 🛫, gaming 🎮 and sharing a good meal with friends 🍲
 
 ### Contributions
 - The [Minecraft intelligent bot](https://github.com/manekinekko/minecraft-openai) is a bot in Minecraft that is controlled by Codex, an AI created by OpenAI.
