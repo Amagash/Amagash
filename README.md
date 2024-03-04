@@ -11,6 +11,7 @@ I'm Tiffany, Senior Developer Advocate Specialist in AI/ML at AWS 💻. I previo
 ### Videos
 #### Twitch
 - Hosting the [Build On Generative AI](https://community.aws/livestreams/build-on-generative-ai) show on the [AWS Twitch channel](https://www.twitch.tv/aws)
+- Recurrent speaker on the Underscore show
 #### Interviews
 - [Live Underscode: AI in Minecraft](https://www.youtube.com/watch?v=16cryV3zLKk)
 - [Live Underscode: Discussion around NLP](https://www.youtube.com/watch?v=PznWW_716Ys)
