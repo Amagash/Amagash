@@ -2,12 +2,15 @@
 I'm Tiffany, Senior Developer Advocate Specialist in AI/ML at AWS 💻. I previously worked as a Data/ML engineer and Developer Relations at Microsoft. I'm a recurring speaker in the [Underscore talk-show](https://www.youtube.com/@Underscore_). I love engaging with developers about technologies, innovations and help them use our tools. My main focus are Artificial Intelligence 🤖, Cloud technologies ☁️ and Python 🐍 but I also love astronomy 🚀, genetic engineering 🧬, sports 🥋, animals 🐕, travels 🛫, gaming 🎮 and sharing a good meal with friends 🍲
 
 ### Contributions
+- The [Minecraft intelligent bot](https://github.com/Amagash/minecraft-ai-python) is a bot in Minecraft that is controlled from Bedrock in AWS.
 - The [Minecraft intelligent bot](https://github.com/manekinekko/minecraft-openai) is a bot in Minecraft that is controlled by Codex, an AI created by OpenAI.
 - The [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) curriculum is a Microsoft initiative to democratize Data Science and make it accessible to everyone. I contributed to the [Data Science in the cloud](https://github.com/microsoft/Data-Science-For-Beginners/tree/main/5-Data-Science-In-Cloud) chapter.
 - The [Hack In The Wood project](https://github.com/tagazok/hitw-uni4coop-co2) was born during the HITW 2022 to help the NGO [Uni4Coop](https://uni4coop.com/fr) with a project on Carbon footprint impact.
 - The [DevConGalaxy](https://workshops.devcongalaxy.io/) website is a library of workshops created by a community of developpers to help people learn new skills.
 - The Microsoft Tech Groups (MTG) [site template](https://github.com/mtg-x/event-template) is a template that allows community organizers to quickly create a website for their events and conferences. Feel free to contribute!
 ### Videos
+#### Twitch
+- Hosting the [Build On Generative AI](https://community.aws/livestreams/build-on-generative-ai) show on the [AWS Twitch channel](https://www.twitch.tv/aws)
 #### Interviews
 - [Live Underscode: AI in Minecraft](https://www.youtube.com/watch?v=16cryV3zLKk)
 - [Live Underscode: Discussion around NLP](https://www.youtube.com/watch?v=PznWW_716Ys)
