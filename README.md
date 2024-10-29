@@ -3,7 +3,7 @@ I'm Tiffany, Senior Developer Advocate Specialist in AI/ML at AWS 💻. I previo
 
 ### Contributions
 - The [AI Solution Architect agent](https://github.com/viktoriasemaan/sa-ai-agent) is an AI assistant to help you with your architecture, generating terraform file and estimating costs of infrastructures. 
-- The [Minecraft intelligent bot](https://github.com/Amagash/minecraft-ai-python) is a bot in Minecraft that is controlled by [Bedrock in AWS](https://github.com/Amagash/minecraft-ai-python) and [Codex](https://github.com/manekinekko/minecraft-openai), an AI created by OpenAI.
+- The [Minecraft intelligent bot](https://github.com/Amagash/minecraft-ai-python) is a bot in Minecraft that is controlled by [Bedrock in AWS](https://github.com/Amagash/minecraft-ai-python) and [Codex](https://github.com/manekinekko/minecraft-openai), an AI created by OpenAI. Also find a more advanced version with AI agents [here](https://github.com/build-on-aws/amazon-bedrock-minecraft-agent).
 - The [Data Science for Beginners](https://github.com/microsoft/Data-Science-For-Beginners) curriculum is a Microsoft initiative to democratize Data Science and make it accessible to everyone. I contributed to the [Data Science in the cloud](https://github.com/microsoft/Data-Science-For-Beginners/tree/main/5-Data-Science-In-Cloud) chapter.
 - The [Hack In The Wood project](https://github.com/tagazok/hitw-uni4coop-co2) was born during the HITW 2022 to help the NGO [Uni4Coop](https://uni4coop.com/fr) with a project on Carbon footprint impact.
 - The [DevConGalaxy](https://workshops.devcongalaxy.io/) website is a library of workshops created by a community of developpers to help people learn new skills.
