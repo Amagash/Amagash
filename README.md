@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tiffany, Senior Developer Advocate in AI/ML at AWS 💻. I previously worked as a Data/ML engineer and Developer Relations at Microsoft. I'm also a recurring speaker in the [Underscore talk-show](https://www.youtube.com/@Underscore_). I love engaging with developers about technologies, innovations and help them use our tools. My main focus are Artificial Intelligence 🤖, Cloud technologies ☁️ but I also love astronomy 🚀, genetic engineering 🧬, outdoors activities 🏔️ and sharing a meal in good compagnie 🍲
+I'm Tiffany, Senior Developer Advocate in AI/ML at AWS 💻. I previously worked as a Data/ML engineer and Developer Relations at Microsoft. I'm also a recurring speaker in the [Underscore talk-show](https://www.youtube.com/@Underscore_). I love engaging with developers about technologies, innovations and help them use our tools. My main focus are Artificial Intelligence 🤖 and Cloud technologies ☁️ but I also love astronomy 🚀, genetic engineering 🧬, outdoors activities 🏔️ and sharing a meal in good compagnie 🍲
 
 ### Contributions
 - The [AI Solution Architect agent](https://github.com/viktoriasemaan/sa-ai-agent) is an AI assistant to help you with your architecture, generating terraform file and estimating costs of infrastructures. 
